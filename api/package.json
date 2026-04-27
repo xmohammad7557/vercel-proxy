@@ -1,0 +1,8 @@
+{
+  "name": "vercel-proxy",
+  "version": "1.0.0",
+  "description": "Fast proxy via Vercel",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
